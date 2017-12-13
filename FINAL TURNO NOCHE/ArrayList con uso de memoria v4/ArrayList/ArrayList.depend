@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1509980586 source:f:\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509979964 source:f:\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1509978410 f:\arraylist\arraylist.h
+
+1509980586 source:d:\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509980586 source:f:\arraylist - final\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510153032 source:c:\users\admin\desktop\figueiras - final\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510152246 c:\users\admin\desktop\figueiras - final\arraylist\arraylist.h
+
+1512944285 source:c:\users\admin\desktop\figueiras - final\arraylist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1512941000 c:\users\admin\desktop\figueiras - final\arraylist\funciones.h
+
+1512944322 source:c:\users\admin\desktop\figueiras - final\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1510153032 source:c:\users\admin\desktop\figueiras - final\final generico\arraylist -\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510152246 c:\users\admin\desktop\figueiras - final\final generico\arraylist -\arraylist.h
+
+1512949943 source:c:\users\admin\desktop\figueiras - final\final generico\arraylist -\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1512944801 c:\users\admin\desktop\figueiras - final\final generico\arraylist -\funciones.h
+
+1512956861 source:c:\users\admin\desktop\figueiras - final\final generico\arraylist -\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1512960221 source:c:\users\admin\desktop\figueiras - final\final generico - copia\arraylist -\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510152246 c:\users\admin\desktop\figueiras - final\final generico - copia\arraylist -\arraylist.h
+
+1512996592 source:c:\users\admin\desktop\figueiras - final\final generico - copia\arraylist -\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1512944801 c:\users\admin\desktop\figueiras - final\final generico - copia\arraylist -\funciones.h
+
+1512996832 source:c:\users\admin\desktop\figueiras - final\final generico - copia\arraylist -\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1512960221 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510152246 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist\arraylist.h
+
+1513026439 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1513007495 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist\funciones.h
+
+1512960221 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510152246 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\arraylist.h
+
+1513032757 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1513007495 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\funciones.h
+
+1513036936 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1512960221 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510152246 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\arraylist\arraylist.h
+
+1513044778 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\arraylist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1513007495 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\arraylist\funciones.h
+
+1513043956 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1512960221 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v2\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510152246 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v2\arraylist\arraylist.h
+
+1513079540 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v2\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1513077380 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v2\arraylist\funciones.h
+
+1513079540 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v2\arraylist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1512960221 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v3\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510152246 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v3\arraylist\arraylist.h
+
+1513100378 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v3\arraylist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1513092513 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v3\arraylist\funciones.h
+
+1513100347 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v3\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1512960221 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v4\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510152246 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v4\arraylist\arraylist.h
+
+1513101806 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v4\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1513092513 c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v4\arraylist\funciones.h
+
+1513101980 source:c:\users\admin\desktop\figueiras - final\final turno noche\arraylist con uso de memoria v4\arraylist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Funciones.h"
+
